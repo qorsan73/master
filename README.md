@@ -11,6 +11,9 @@ This tool is considered one of the most powerful tools for hacking the MasterCar
 <br>
 <br>
 <br>
+# Run on Kali
+<br>
+<br>
 # Screenshot
 ![](https://files.catbox.moe/q5oyvk.png)
 # visa chekr
@@ -26,3 +29,8 @@ cd master
 
 python card.py
 ````
+<br>
+<br>
+<br>
+
+# This tool is for educational purposes only, and any improper use may expose you to legal liability. I am not responsible for any bad use.
