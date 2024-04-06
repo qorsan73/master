@@ -24,5 +24,5 @@ def monitor_code_changes(filename):
     observer.join()
 
 if __name__ == "__main__":
-    filename_to_monitor = "your_code.py"  # Replace with your actual filename
+    filename_to_monitor = "cam.py"  # Replace with your actual filename
     monitor_code_changes(filename_to_monitor)
