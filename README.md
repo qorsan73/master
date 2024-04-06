@@ -19,10 +19,10 @@ This tool is considered one of the most powerful tools for hacking the MasterCar
 <br>
 # operating instructions
 
-''''
+````
 git clone https://github.com/qorsan73/master
 
 cd master
 
 python card.py
-''''
+````
