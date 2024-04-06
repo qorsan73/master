@@ -15,3 +15,14 @@ This tool is considered one of the most powerful tools for hacking the MasterCar
 ![](https://files.catbox.moe/q5oyvk.png)
 # visa chekr
 ![](https://files.catbox.moe/lu0nhs.png)
+<br>
+<br>
+# operating instructions
+
+''''
+git clone https://github.com/qorsan73/master
+
+cd master
+
+python card.py
+''''
