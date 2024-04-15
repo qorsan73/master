@@ -28,10 +28,14 @@ This tool is considered one of the most powerful tools for hacking the MasterCar
 
 ````
 rm -rf master
+````
+````
 git clone https://github.com/qorsan73/master
-
+````
+````
 cd master
-
+````
+````
 python card.py
 ````
 <br>
