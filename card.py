@@ -35,8 +35,8 @@ print("                                         Github : https://github.com/qors
 print("                                         Telegram : https://t.me/qorsantaez73 ")
 def generate_random_visa_card():
 
-    visa_card_number = "4"  
-    for _ in range(15):
+    visa_card_number = "540770"  
+    for _ in range(10):
         digit = random.randint(0, 9)
         visa_card_number += str(digit)
     return visa_card_number
