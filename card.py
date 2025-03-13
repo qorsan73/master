@@ -44,7 +44,7 @@ def generate_random_visa_card():
 def generate_random_expiry_date():
 
     month = random.randint(1, 12)
-    year = random.randint(2024, 2030)
+    year = random.randint(2025, 2030)
     return f"{month}/{year}"
 
 def generate_random_cvv():
@@ -57,7 +57,7 @@ def generate_random_cvv():
 
 def generate_random_city():
 
-    cities = ["New York", "London", "Tokyo", "Paris", "Los Angeles"]
+    cities = ["New York", "California", "Los Angeles"]
     return random.choice(cities)
 
 def test_on_google_pay(visa_card_number, expiry_date, cvv, issuing_city):
